@@ -49,11 +49,8 @@ To get started with the Python scripts in this repository, follow the steps belo
 
 Here's a glimpse of the scripts available in this repository:
 
-- **Script 1**: A powerful data analysis script that performs statistical calculations and generates insightful visualizations.
-- **Script 2**: A script that automates the process of downloading and organizing datasets from various online sources.
-- **Script 3**: A web scraping script that extracts valuable information from websites and saves it for further analysis.
+- **Script 1**: A script that calculates the distance between two postcodes in UK and Ireland
 
-For more detailed information about each script, including usage instructions, dependencies, and examples, please refer to the individual script directories.
 
 ## License
 
