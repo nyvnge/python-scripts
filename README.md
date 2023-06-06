@@ -31,7 +31,7 @@ To get started with the Python scripts in this repository, follow the steps belo
 
    ```bash
    cd path/to/script-directory
-   python script.py
+   python geoScript.py
    ```
 
    Be sure to provide any necessary command-line arguments or configuration settings as outlined in the script's documentation.
