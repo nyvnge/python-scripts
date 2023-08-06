@@ -3,9 +3,9 @@ import ssl
 from email.mime.text import MIMEText
 
 # Email Sender and Email receiver info
-emailSender = 'sandersonnyangejr@gmail.com'
-emailPassword = 'sgllvyykiknfrcsl'
-emailReceiver = 'sanywalkerke@gmail.com'
+emailSender = 'youremail@gmail.com'
+emailPassword = 'yourpass'
+emailReceiver = 'receiveremail'
 
 # Subject and body of the email
 subject = 'Daily Motivational Tweets'
