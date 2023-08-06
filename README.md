@@ -61,6 +61,5 @@ The scripts in this repository are licensed under the [MIT License](LICENSE). Yo
 
 These scripts are provided as-is, without any warranty or guarantee of their functionality or suitability for any particular purpose. It is your responsibility to review and test the scripts before using them in any critical or production environment. The repository maintainers and contributors are not liable for any damages or issues caused by the use of these scripts.
 
-If you encounter any bugs, have suggestions for improvements, or need assistance with any of the scripts, feel free to open an issue on GitHub. The community will be happy to help!
-
+If you encounter any bugs, have suggestions for improvements, or need assistance with any of the scripts, feel free to open an issue on GitHub.
 
