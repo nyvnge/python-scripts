@@ -1,4 +1,5 @@
 # Python Scripts
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
 Welcome to the Python Scripts repository! This collection contains a wide range of Python scripts that can be incredibly useful for various tasks, from data manipulation to web scraping, and much more. The scripts provided here are designed to be practical, efficient, and easy to integrate into your projects.
 
