@@ -23,4 +23,5 @@ Before running the script, make sure you have the following:
    music_directory = 'D:\Entertainment\Music\COMPILATIONS\90s Love Songs (2022)'
 
 ## Screenshot
+![Screenshot](Screenshot (304).png)
 
