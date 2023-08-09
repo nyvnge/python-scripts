@@ -37,7 +37,7 @@ To get started with the Python scripts in this repository, follow the steps belo
 
    Be sure to provide any necessary command-line arguments or configuration settings as outlined in the script's documentation.
 
-5. **Contribute**: If you have your own Python scripts that you'd like to contribute or if you've made improvements to existing scripts, we welcome your contributions! Follow the standard GitHub workflow:
+5. **Contribute**: If you have your own Python scripts that you'd like to contribute or if you've made improvements to existing scripts, I welcome your contributions! Follow the standard GitHub workflow:
 
    - Fork the repository to your GitHub account.
    - Create a new branch for your changes: `git checkout -b your-branch-name`.
