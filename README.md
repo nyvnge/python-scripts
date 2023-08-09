@@ -3,7 +3,7 @@
 
 Welcome to the Python Scripts repository! This collection contains a wide range of Python scripts that can be incredibly useful for various tasks, from data manipulation to web scraping, and much more. The scripts provided here are designed to be practical, efficient, and easy to integrate into your projects.
 
-Feel free to explore the scripts and utilize them in your own work. Contributions are also highly appreciated, so if you have additional scripts or improvements to existing ones, we encourage you to share them with the community.
+Feel free to explore the scripts and utilize them in your own work. Contributions are also highly appreciated, so if you have additional scripts or improvements to existing ones, I encourage you to share them
 
 ## Getting Started
 
